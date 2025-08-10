@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Developer+Advocate;DevOps+%26+Platform+Engineering;8%2B+Years+Experience;Cloud+Architecture+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Cloud+Architect;DevOps+%26+Platform+Engineering;11%2B+Years+Experience;Cloud+Architecture+Expert)](https://git.io/typing-svg)
 
 </div>
 
@@ -9,12 +9,12 @@
 
 ## 🚀 About Me
 
-I'm a **Senior Cloud DevOps Engineer**  specializing in **AWS, DevOps, and Platform Engineering** from 🇮🇳 India, with **11+ years** of professional experience in both onsite and remote environments. I'm passionate about building **production-ready applications** and scalable cloud infrastructure.
+I'm a **Senior Cloud DevOps Engineer**  specializing in **AWS, DevOps and Platform Engineering** from 🇮🇳 India, with **11+ years** of professional experience in both onsite and remote environments. I'm passionate about building **production-ready applications** and scalable cloud infrastructure.
 
 - 🔭 Currently working on **cloud-native solutions**, **Artificial Intelligence solutions** and **DevOps/Platform engineering**
 - 🌱 Always learning about **emerging technologies** and **best practices**
 - 👯 Looking to collaborate on **open-source projects** and **DevOps initiatives**
-- 💬 Ask me about **Python, Cloud Architecture, DevOps, and Platform Engineering**
+- 💬 Ask me about **AWS, Cloud Architecture, DevOps, and Platform Engineering**
 - ⚡ Fun fact: I love sharing knowledge through **training and mentoring**
 
 ---
