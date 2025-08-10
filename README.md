@@ -64,11 +64,6 @@ I'm a **Senior Cloud DevOps Engineer**  specializing in **AWS, DevOps and Platfo
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saamrajepatil&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</div>
-
 ---
 
 ## 📈 Activity Graph
