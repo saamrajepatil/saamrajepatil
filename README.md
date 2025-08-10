@@ -11,7 +11,7 @@
 
 I'm a **Senior Cloud DevOps Engineer**  specializing in **AWS, DevOps and Platform Engineering** from 🇮🇳 India, with **11+ years** of professional experience in both onsite and remote environments. I'm passionate about building **production-ready applications** and scalable cloud infrastructure.
 
-- 🔭 Currently working on **cloud-native solutions**, **Artificial Intelligence solutions** and **DevOps/Platform engineering**
+- 🔭 Currently working on **cloud-native solutions**, **DevOps/Platform engineering** and **AWS cloud based Architect**
 - 🌱 Always learning about **emerging technologies** and **best practices**
 - 👯 Looking to collaborate on **open-source projects** and **DevOps initiatives**
 - 💬 Ask me about **AWS, Cloud Architecture, DevOps, and Platform Engineering**
